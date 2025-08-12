@@ -7,7 +7,7 @@ A beautiful, responsive weather app built with **Flutter** that supports **light
 ## 🔗 Try it here  
 [Live Demo](https://earnest-bunny-84c105.netlify.app)
 
---
+
 
 ## ✨ Features
 - 📍 **Current Location Weather** using API

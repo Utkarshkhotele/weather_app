@@ -1,11 +1,3 @@
-Got it ✅
-Here’s a **professional README.md** for your Flutter Weather Pop app, with space for screenshots and full setup instructions.
-
----
-
-### **📄 README.md**
-
-````markdown
 # 🌦️ Weather Pop - Flutter Weather App
 
 A beautiful, responsive weather app built with **Flutter** that supports **light/dark themes**, animated splash screens, and 5-day forecasts. Perfectly optimized for both **mobile** and **web**.
@@ -37,7 +29,7 @@ A beautiful, responsive weather app built with **Flutter** that supports **light
 ```bash
 git clone https://github.com/YOUR_USERNAME/flutter_weather_pop.git
 cd flutter_weather_pop
-````
+
 
 ### 2. Install dependencies
 

@@ -14,15 +14,6 @@ A beautiful, responsive weather app built with **Flutter** that supports **light
 
 ---
 
-## 📸 Screenshots
-| Light Theme | Dark Theme |
-|-------------|------------|
-| ![Light Theme](screenshots/light.png) | ![Dark Theme](screenshots/dark.png) |
-
-> Add your screenshots in a folder named `screenshots` at the root of the project.
-
----
-
 ## 🛠️ Installation
 
 ### 1. Clone the repository

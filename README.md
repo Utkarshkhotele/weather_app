@@ -18,8 +18,9 @@ A beautiful, responsive weather app built with **Flutter** that supports **light
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter_weather_pop.git
-cd flutter_weather_pop
+git clone https://github.com/Utkarshkhotele/weather_app.git
+cd weather_app
+
 
 
 ### 2. Install dependencies
@@ -82,11 +83,4 @@ flutter run
 
 Built with ❤️ using [Flutter](https://flutter.dev).
 
-```
 
----
-
-If you want, I can also **add this README automatically into your project** so that when you push to GitHub, it’s already there.  
-
-Do you want me to prepare the `.gitignore` and this README together in one go so your repo looks clean and professional?
-```
